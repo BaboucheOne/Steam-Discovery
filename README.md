@@ -1,3 +1,5 @@
+![SteamDiscovery Logo](https://previews.dropbox.com/p/thumb/AAQn1ieIauBHY2Iulryy87P49Vvpjo8uSlHJanfK4AjVNh_c9-PM93ldChUIZdbDa-KDtkUnK1Z2zJ1VemXWP9NyAOfjzIQTbis2JFH2EgdFd-5t6vF3umF1E-Kzftpz4yvWGbW0VhVGlC7n_ax3pDMk6dpBzXdxB2ECZI0cbcGNZnL3NAMI6qvkShaG6uVAmPuuelQmHYMe4MkNAnyY0Lr5805Q0IV2bQkIisyt7Dq18A/p.png?size=1600x1200&size_mode=3)
+
 # Steam-Discovery
 Steam Discovery enable you to display all your steam's friends.
 
