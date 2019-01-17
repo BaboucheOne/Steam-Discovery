@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <configurations>
-  <api_key>4B1A93D3B9E7BC4AA6BFABFE65F3B5A7</api_key>
-  <origin_steamid64>76561198810896280</origin_steamid64>
-  <max_layer>5</max_layer>
-  <xml_destination>C:\Program Files\processing-3.3.7\Projects\SteamFriendParser</xml_destination>
+  <api_key>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</api_key>
+  <origin_steamid64>XXXXXXXXXXXXXXXXX</origin_steamid64>
+  <max_layer>3</max_layer>
+  <xml_destination></xml_destination>
 </configurations>
