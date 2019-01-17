@@ -1,0 +1,14 @@
+C:\Users\clnab\Documents\GitHub\Steam-Discovery\SteamDiscovery\bin\Debug\netcoreapp2.1\win10-x64\hostpolicy.dll
+C:\Users\clnab\Documents\GitHub\Steam-Discovery\SteamDiscovery\bin\Debug\netcoreapp2.1\win10-x64\hostfxr.dll
+C:\Users\clnab\Documents\GitHub\Steam-Discovery\SteamDiscovery\bin\Debug\netcoreapp2.1\win10-x64\SteamDiscovery.exe
+C:\Users\clnab\Documents\GitHub\Steam-Discovery\SteamDiscovery\bin\Debug\netcoreapp2.1\win10-x64\SteamDiscovery.deps.json
+C:\Users\clnab\Documents\GitHub\Steam-Discovery\SteamDiscovery\bin\Debug\netcoreapp2.1\win10-x64\SteamDiscovery.runtimeconfig.json
+C:\Users\clnab\Documents\GitHub\Steam-Discovery\SteamDiscovery\bin\Debug\netcoreapp2.1\win10-x64\SteamDiscovery.runtimeconfig.dev.json
+C:\Users\clnab\Documents\GitHub\Steam-Discovery\SteamDiscovery\bin\Debug\netcoreapp2.1\win10-x64\SteamDiscovery.dll
+C:\Users\clnab\Documents\GitHub\Steam-Discovery\SteamDiscovery\bin\Debug\netcoreapp2.1\win10-x64\SteamDiscovery.pdb
+C:\Users\clnab\Documents\GitHub\Steam-Discovery\SteamDiscovery\obj\Debug\netcoreapp2.1\win10-x64\SteamDiscovery.csprojAssemblyReference.cache
+C:\Users\clnab\Documents\GitHub\Steam-Discovery\SteamDiscovery\obj\Debug\netcoreapp2.1\win10-x64\SteamDiscovery.csproj.CoreCompileInputs.cache
+C:\Users\clnab\Documents\GitHub\Steam-Discovery\SteamDiscovery\obj\Debug\netcoreapp2.1\win10-x64\SteamDiscovery.AssemblyInfoInputs.cache
+C:\Users\clnab\Documents\GitHub\Steam-Discovery\SteamDiscovery\obj\Debug\netcoreapp2.1\win10-x64\SteamDiscovery.AssemblyInfo.cs
+C:\Users\clnab\Documents\GitHub\Steam-Discovery\SteamDiscovery\obj\Debug\netcoreapp2.1\win10-x64\SteamDiscovery.dll
+C:\Users\clnab\Documents\GitHub\Steam-Discovery\SteamDiscovery\obj\Debug\netcoreapp2.1\win10-x64\SteamDiscovery.pdb
